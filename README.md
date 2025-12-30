@@ -37,6 +37,6 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm
 ---
 
 ### Connect with me
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/)
+- **LinkedIn:** [https://linkedin.com/in/islam-hatem-salem](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/)
 - **Email:** ishatemsalem@gmail.com
 - **Portfolio:** [Neuron Studios](https://neuronstudios.org)
