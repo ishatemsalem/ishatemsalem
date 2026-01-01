@@ -1,7 +1,7 @@
 # Hi, I'm Islam Salem!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&width=500&lines=Information+Engineering+@+GUC;Quantum+Computing+Enthusiast;3D+Technical+Generalist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&width=500&lines=Information+Engineering+&+Technology+@+GUC;Quantum+Computing+Enthusiast;3D+Technical+Generalist;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ### Overview
@@ -21,18 +21,18 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm
 
 ---
 
-### Featured Project: QuantumFlow submission
+### Featured Project: QuantumFlow Submission
 *Open-Source Quantum Circuit Visualizer*
 
-- Unitary Execution Engine: Engineered the logic to cache and track state vectors across circuit depth (n = 0...N)
-- Validation & Error Finding: Implemented real-time unitary matrix visualization and automated error-checking for stepwise gate validation
-- State Vector Integration: Developed the logic for live phase diagrams and complex amplitude representation8.
+- Unitary Execution Engine: Engineered the logic to cache and track state vectors across circuit depth (n = 0...N).
+- Validation & Error Finding: Implemented real-time unitary matrix visualization and automated error-checking for stepwise gate validation.
+- State Vector Integration: Developed the logic for live phase diagrams and complex amplitude representation.
 - Teammates: judyibraheem, hassaballah17, moadex2005, yayaelbasha
 
 > **Technical Note:**
-> During this project, as encouraged by the proctors, I benchmarked LLMs for translating psuedocode. While useful for boilerplate, frequent hallucinations, extremely long code, and a memory that somehow forgot it was supposed to follow the psuedocode proved more time-consuming to debug than writing the algorithms from scratch.
+> During this project, as encouraged by the proctors, I benchmarked LLMs for translating psuedocode. While useful for boilerplate, frequent hallucinations, extremely long code, and a memory that forgot it was supposed to follow repeatedly prompted logic proved more time-consuming to debug than writing the algorithms from scratch.
 >
-> Remaining structural inconsistencies are byproducts of this experiment. A lesson learned
+> Remaining structural inconsistencies are byproducts of this experiment. A lesson learned.
 
 ---
 
