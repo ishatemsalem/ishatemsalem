@@ -30,9 +30,7 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm
 - Teammates: judyibraheem, hassaballah17, moadex2005, yayaelbasha
 
 > **Technical Note:**
-> During this project, as encouraged by the proctors, I benchmarked LLMs for translating psuedocode. While useful for boilerplate, frequent hallucinations, extremely long code, and a memory that forgot it was supposed to follow repeatedly prompted logic proved more time-consuming to debug than writing the algorithms from scratch.
->
-> Remaining structural inconsistencies are byproducts of this experiment. A lesson learned.
+> During this project, as encouraged by the hackathon proctors, LLM tools were used for scaffolding and iteration, according to extensive prompts given in psuedo & logic.
 
 ---
 
