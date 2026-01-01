@@ -1,7 +1,7 @@
 # Hi, I'm Islam Salem!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&width=500&lines=Information+Engineering+&+Technology+@+GUC;Quantum+Computing+Enthusiast;3D+Technical+Generalist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&width=500&lines=Information+Engineering+@+GUC;Quantum+Computing+Enthusiast;3D+Technical+Generalist;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ### Overview
