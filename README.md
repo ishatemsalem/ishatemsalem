@@ -5,11 +5,13 @@
 </p>
 
 ### Overview
-I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm a builder driven by Mathematics, Physics, and CS, but I also spend a lot of my time in the creative world as a 3D Technical Artist.
+I am a Year 2 Information Engineering & Technology (IET) student at the GUC with a deep interest with anything involving Mathematics, Physics, or (but preferrably.. **and**) CS, but I also spend a lot of my time in the creative world as a 3D Technical Artist.
 
-* **Currently:** Deepening Expertise: Self-studying more advanced quantum mechanics and algorithmic optimization following the IBM Qiskit Fall Fest.
+* **Currently:**
+  - Deepening Expertise: Studying more advanced quantum mechanics and algorithmic optimization following the IBM Qiskit Fall Fest.
+  - Working on Stage 4 of the SS Vantage Suite
 * **Experience:** Core Technical Generalist at **Neuron Studios**, delivering assets featured on [ESL](https://www.instagram.com/espnuk/p/DQwDfP2E1z3/), and [The Guardian](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/overlay/experience/2797935967/multiple-media-viewer?profileId=ACoAAF-92LcBnIumK64ZEjDVRDDk8C9wF7I-sOw&treasuryMediaId=1766712406708&type=LINK&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo1sPA5uCRDu7TZ9OkfPIcg%3D%3D).
-* **Achievement:** One of <10 teams to present in Egypt during the **IBM Qiskit Fall Fest 2025**.
+* **Achievements:** One of <10 teams to present in Egypt during the **IBM Qiskit Fall Fest 2025**.
 
 ---
 
@@ -21,7 +23,18 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm
 
 ---
 
-### Featured Project: QuantumFlow Submission
+### Featured Projects: 
+### [SS Vantage Suite](https://github.com/ishatemsalem/SS_Vantage_Suite) ![SS Vantage Suite v1.0.1](https://img.shields.io/github/v/release/ishatemsalem/SS_Vantage_Suite?color=4169E1&label=Latest%20Release)
+*Production Efficiency Framework for Blender 4.2+*
+- **Current Toolset:** **OrthoMetric** (Released v1.0.1) — Rapid viewport setup, reference structuring, and switching.
+- **In Development:** **General Deform** — Base mesh snapping and Laplacian smoothing workflows (Stage 4).
+- **Tech:** Python, Blender API, Math-driven coordinate calibration.
+
+> **Technical Note:**
+> This is a solo project, refactoring and implementing a collection of mini-addons and scripts I developed over years to optimize my personal commission pipeline.
+> 
+
+### QuantumFlow Submission
 *Open-Source Quantum Circuit Visualizer*
 
 - Unitary Execution Engine: Engineered the logic to cache and track state vectors across circuit depth (n = 0...N).
