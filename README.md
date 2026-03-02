@@ -5,14 +5,17 @@
 </p>
 
 ### Overview
-I am a Year 2 Information Engineering & Technology (IET) student at the GUC with a deep interest with anything involving Mathematics, Physics, or (but preferrably.. **and**) CS, but I also spend a lot of my time in the creative world as a 3D Technical Artist.
+I am a Year 2 Information Engineering & Technology (IET) student at the GUC. I'm big into art in all its forms/ 
 
 * **Currently:**
-  - Studying more advanced quantum mechanics and algorithmic optimization following the IBM Qiskit Fall Fest.
-  - Working on Stage 4 of the SS Vantage Suite
-  - Getting asphalted by the sheer uni workload
-* **Experience:** Core Technical Generalist at **Neuron Studios**, delivering assets featured on [ESL](https://www.instagram.com/espnuk/p/DQwDfP2E1z3/), and [The Guardian](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/overlay/experience/2797935967/multiple-media-viewer?profileId=ACoAAF-92LcBnIumK64ZEjDVRDDk8C9wF7I-sOw&treasuryMediaId=1766712406708&type=LINK&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo1sPA5uCRDu7TZ9OkfPIcg%3D%3D).
-* **Achievements:** One of <10 teams to present in Egypt during the **IBM Qiskit Fall Fest 2025**.
+  - Looking further into quantum computing as a possible career outlook
+  - Working on Stage 4 of my Blender plugin, The SS Vantage Suite, which will include a Sprite Sheet creator & Pixel-izer
+  - Getting asphalted by the sheer uni workload & having an identity crisis on how to have a net positive career as an Engineer
+* **Experience:**
+  - Core Technical Generalist at **Neuron Studios**, delivering assets featured on [ESL](https://www.instagram.com/espnuk/p/DQwDfP2E1z3/), and [The Guardian](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/overlay/experience/2797935967/multiple-media-viewer?profileId=ACoAAF-92LcBnIumK64ZEjDVRDDk8C9wF7I-sOw&treasuryMediaId=1766712406708&type=LINK&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo1sPA5uCRDu7TZ9OkfPIcg%3D%3D).
+* **Achievements:**
+  - One of 10 teams to present in Egypt during the **IBM Qiskit Fall Fest 2025**.
+  - Peak rank of 38 during MIT's iQuHack 2026
 
 ---
 
