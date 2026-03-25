@@ -15,7 +15,7 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC, kno
   - Core Technical Generalist at **Neuron Studios**, delivering assets featured on [ESL](https://www.instagram.com/espnuk/p/DQwDfP2E1z3/), and [The Guardian](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/overlay/experience/2797935967/multiple-media-viewer?profileId=ACoAAF-92LcBnIumK64ZEjDVRDDk8C9wF7I-sOw&treasuryMediaId=1766712406708&type=LINK&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo1sPA5uCRDu7TZ9OkfPIcg%3D%3D).
 * **Achievements:**
   - One of 10 teams to present in Egypt during the **IBM Qiskit Fall Fest 2025**.
-  - Peak rank of 38 during MIT's iQuHack 2026
+  - Peak rank of 38th place during MIT's iQuHack 2026 (IonQ)
 
 ---
 
