@@ -5,11 +5,11 @@
 </p>
 
 ### Overview
-I am a Year 2 Information Engineering & Technology (IET) student at the GUC, known by my previous identity Art6000. I'm very big into sciences and the way the world works, but even bigger into arts and expression
+I am a Year 2 Information Engineering & Technology (IET) student at the GUC, previously known as Sport6000, Art6000, and Review6000.
 
 * **Currently:**
-  - Working on Stage 4 of my Blender plugin, The SS Vantage Suite, which will include a Sprite Sheet creator & Pixel-izer
-  - Getting asphalted by the sheer uni workload & having an identity crisis on how to have a net positive career as an Engineer
+  - Working on Stage 4 of my Blender plugin, The SSV-Suite Blender Plugin, which will include a motion tracking transformation csv extractor
+  - Getting asphalted by the sheer uni workload & having an identity crisis on what engineering major to choose
   - Working on a nice CS401 Java boardgame project for uni. guess its not all suffering :D
 * **Experience:**
   - Core Technical Generalist at **Neuron Studios**, delivering assets featured on [ESL](https://www.instagram.com/espnuk/p/DQwDfP2E1z3/), and [The Guardian](https://www.linkedin.com/in/islam-hatem-salem-75bb32389/overlay/experience/2797935967/multiple-media-viewer?profileId=ACoAAF-92LcBnIumK64ZEjDVRDDk8C9wF7I-sOw&treasuryMediaId=1766712406708&type=LINK&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo1sPA5uCRDu7TZ9OkfPIcg%3D%3D).
@@ -20,7 +20,7 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC, kno
 ---
 
 ### Tech Stack
-- **Programming:** Python (Qiskit, Pandas), Java, C++
+- **Programming:** Python (qiskit, bpy), Java, C++
 - **Engineering:** Quantum Circuit Design, Digital Logic, Embedded System
 - **Creative:** Advanced Blender (Python API/Addons), 3D Modeling
 - **Languages:** Arabic (Native), English (Fluent), German (A2.2), Japanese (N5) (unofficial)
