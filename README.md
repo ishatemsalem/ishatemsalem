@@ -28,7 +28,7 @@ I am a Year 2 Information Engineering & Technology (IET) student at the GUC, pre
 ---
 
 ### Featured Projects: 
-### [SS Vantage Suite](https://github.com/ishatemsalem/SS_Vantage_Suite) ![SS Vantage Suite v1.0.1](https://img.shields.io/github/v/release/ishatemsalem/SS_Vantage_Suite?color=4169E1&label=Latest%20Release)
+### [SSV Suite](https://github.com/ishatemsalem/SS_Vantage_Suite) ![SS Vantage Suite v1.0.1](https://img.shields.io/github/v/release/ishatemsalem/SS_Vantage_Suite?color=4169E1&label=Latest%20Release)
 *Production Efficiency Framework for Blender 4.2+*
 - **Current Toolset:** **OrthoMetric** (Released v1.0.1) — Rapid viewport setup, reference structuring, and switching.
 - **In Development:** **General Deform** — Base mesh snapping and Laplacian smoothing workflows (Stage 4).
